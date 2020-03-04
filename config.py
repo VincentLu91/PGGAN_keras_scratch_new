@@ -1,5 +1,5 @@
-data_dir = './datasets'
-result_dir = './results'
+data_dir = '/Users/vincentlu/Documents/MachineLearning/AIDD/Exploring_Other_Tech/PGGAN_keras_scratch_new/datasets'
+result_dir = '/Users/vincentlu/Documents/MachineLearning/AIDD/Exploring_Other_Tech/PGGAN_keras_scratch_new/results'
 
 random_seed = 1000
 dataset = None
