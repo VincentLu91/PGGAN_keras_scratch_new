@@ -399,4 +399,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-demo1.h5
+celeba-128x128.h5
