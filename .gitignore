@@ -399,4 +399,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-datasets/demo1.h5
+demo1.h5
