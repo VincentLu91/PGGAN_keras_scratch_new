@@ -5,6 +5,7 @@ FROM python:3
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY . .
+#COPY . .
 
 #CMD [ "python", "./your-daemon-or-script.py" ]
+# run a container or just put a command for python train.py!? need some clarity

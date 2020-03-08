@@ -400,3 +400,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 celeba-128x128.h5
+results/*
