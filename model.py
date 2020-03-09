@@ -1,4 +1,4 @@
-import tensorflow as tf
+import tensorflow-gpu as tf # was tensorflow
 import keras.backend as K
 from keras.engine.topology import InputSpec
 from keras.engine.topology import Layer
