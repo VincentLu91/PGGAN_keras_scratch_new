@@ -14,7 +14,7 @@ linear, linear_init = activations.linear,       initializers.he_normal()
 relu,   relu_init = activations.relu,         initializers.he_normal()
 lrelu,  lrelu_init = lambda x: K.relu(x, 0.2),  initializers.he_normal()
 
-
+tf.compat.v1.enable_eager_execution() # enable eager execution for numpy to do the job
 def vlrelu(x): return K.relu(x, 0.3)
 
 
