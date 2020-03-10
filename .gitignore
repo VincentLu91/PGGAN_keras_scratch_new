@@ -401,3 +401,5 @@ venv.bak/
 .mypy_cache/
 celeba-128x128.h5
 results/*
+Dockerfile
+requirements.txt
